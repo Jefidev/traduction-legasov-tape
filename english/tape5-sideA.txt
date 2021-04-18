@@ -1,0 +1,297 @@
+… it should be obvious even to a humanist that if power builds up at a certain rate, if it so happens that a problem escalates at a certain speed, then it is obvious that the protection system must act faster than this problem grows in the system. But theirs was five to six times slower.
+
+Adamovich: [UNINTELLIGIBLE QUESTION]
+
+Legasov: Yes, the reactivity increases by 13 times every second whereas the rod takes five or six seconds to descend. So they directed all their efforts towards harmonizing these speeds to make a dry channel. This is how much they clung to those bloody rods, mechanical, with the help of which… And they still can’t let go of them, while my proposal for gas-based protection was pushed to sometime in the distant future. And now it appears that it is impossible to make the rods move that fast after all. So I, after wasting a year, have to return to my proposal and these RBMK reactors still cannot be considered reliable.
+
+Adamovich: [UNINTELLIGIBLE QUESTION]
+
+Legasov: RBMK? 14 of them. All through, I want to tell you, and I don’t know if I am succeeding, that it is just about the philosophy of safety. Had the philosophy of safety been correct, then our experts would have, without a doubt, found technical solutions conforming to this philosophy. Because they are competent specialists, sensible people; they can make calculations and have other skills. But the problem is that they were put in such a situation. If the philosophy had specified mandatory containment, we would not have the RBMK reactor and this conversation wouldn’t be. Neither would there be 14 VVER devices “naked”, covered by nothing. And if a VVER explodes, and it can explode, the footprint would not be 80-90 kilometres; it would be 250 kilometres.
+
+Adamovich: [UNINTELLIGIBLE QUESTION]
+
+Legasov: No, we have 14 VVER devices without containments.
+
+Adamovich: [UNINTELLIGIBLE QUESTION]
+
+Legasov: No, 14 RBMKs without containments and 14 VVERs without containments.
+
+And only when we had the containments, the stations being built for the last 5-6 years, the ones being designed now, and the ones that will be built, all are being built with containments. Where did this come from? As soon as we started selling stations to the Finns. The Finns, according to international requirements, said, “Give us containment; we won’t take it without containment.” And then came our first station with containment. And it is very good judging by its reactor parameters, and it is with containment. This makes it the best station in the world, “Loviisa”. After that, we started implementing this philosophy here. That is why the stations being built in the last 5-6 years, the Zaporizhia station in Ukraine... By the way, the station that was built near Minsk for you would have been built with containment.
+
+Adamovich: [UNINTELLIGIBLE QUESTION]
+
+Legasov: Well, the decision has already been made, an emotional one, so to say. But I should tell you that the Minsk station, in particular, wouldn’t pose any danger.
+
+Adamovich: [UNINTELLIGIBLE QUESTION]
+
+Legasov: Well, that is understandable. The decision has been made and what can we say about it now. But, in reality, there could be an accident. The reactor could explode. Anything can happen. But everything will remain inside the containment. This is what makes the Minsk station and the Finnish station distinct. Same as the Americans. They had an accident worse than this but everything remained inside the containment.
+
+So this is the first violation of the philosophy.
+
+What is the fault of Anatoly Pavlovich Alexandrov? The fault of Anatoly Pavlovich Alexandrov is that he, albeit reluctantly, consented. He was against it, objected to it together with the experts, but then went on to meet the stubborn requirements of State Planning Committee and the Ministry of Energy, that stations can be built without containments. At first, he opposed it greatly, he fought—and I can prove this documentarily—but then he gave up. But under what conditions? Under the mandatory condition of the most rigorous compliance with all regulations and such. And for the last 20 years, he spoke wherever he could, at the Politburo, etc. He demanded military acceptance; he demanded an improvement in the quality of equipment and so on. So he was fighting to make the likelihood of an accident at a station, knowing that there is no containment, minimal. He fought for it.
+
+But yet, he, how should I tell you, well, didn’t want to die for this philosophy. This is his only fault. There is no other. Because in all other cases, he fought for the right things, even though it was difficult to fight. Because a group of experts—who, you know, are like “hurrah, go, go!”—they had so much influence that Sidorenko Viktor Alekseyevich, the director of the Department of Nuclear Reactors at our institute, the author of this doctoral dissertation and this book, was expelled from the institute. He had to leave the institute. Because his own colleagues didn’t understand him. But why didn’t they understand him? Because his colleagues got bonuses from the Ministry; because the institute was part of the Ministry of Medium Machine Building. Do you understand? They see the director, who is a corresponding member of the Academy of Sciences, and their [own] salary is lousy. If he doesn’t get a bonus of 100 roubles, he will survive. But I get only 180 and for me, a bonus of 100 roubles is important. If I “squeal” about the cost of these containments, then I will not get a bonus. If I say something wrong, I will not be published and my dissertation will fail.
+
+This is how his own subordinates, brought up for years with such an ideology in that Ministry, could kick out their own superior. How? Well, they didn’t kick him out but made his work environment intolerable. However, he, together with Anatoly Petrovich, fought for quality once they lost with the containments. And he did a lot to bring about Gosatomenergonadzor, where he eventually went to work, to the organization that at least controlled the composition of the equipment that went there. Such were the conditions.
+
+This is why Chernobyl—now do you see why I started from so far back?—it demonstrated that in the Soviet Union, even today after having survived Chernobyl, not a single dog understands this philosophy, that is so basic and simple, the three components of which I told you, even in the nuclear industry. And it has not been carried over to the chemical industry, where we could have a Bhopal at any moment, you see, because of this very reason of the wrong philosophy. There is not a single organization in the Academy of Sciences of the Soviet Union or in the national academies that could develop this philosophy. There is no capability to use the theory of risk and reliability of devices to anticipate possible consequences of such events and to prepare for them in advance.
+
+So we have Chernobyl. As Nikolai Ivanovich Ryzhkov said in the Politburo meeting on the 14th of July when discussing the issue, “I have the impression that the country was slowly and steadily moving towards Chernobyl while developing its nuclear energy.” He was absolutely correct. We were moving towards Chernobyl. Only it should have happened, in my opinion, not at Chernobyl but at the Kola station, and a few years earlier; when it was discovered that in the main pipeline that carries the coolant, the welder, to get a bonus and to finish faster, just put electrodes inside and lightly welded them on top instead of welding the valve in the most critical spot. This was miraculously discovered and this, the most powerful disaster... we would have just lost the entire Kola Peninsula. And this could have happened a few years ago. And just by a miracle, it didn’t. And a station without containment would have contaminated everything. And our Kola Peninsula, a natural wonder, would have been destroyed.
+
+I want to tell you all this so that you understand that the origin of the Chernobyl tragedy was in wrong philosophy which resulted from losing 10 years. And then to catch up, quickly, this option was proposed.
+
+Then the transfer, unwarranted transfer of experience from the military industry to domestic infrastructure. The transfer was entirely unjustified. Because in the military industry, with a limited number of devices, strict military acceptance at multiple times—military acceptance at the manufacturer, military acceptance during the operation—multiple examinations, staff retraining, etc… And when you suddenly, with the same device, enter the domestic infrastructure where there is nothing similar—no simulators, no training systems, no training systems at all, not to mention the training systems for emergencies. Do you understand? This is how the conditions for such disasters were created. This is what I want to tell you today. But this is not for publication yet because they will take both your and my head off; mine first and then yours. Because nothing has changed so far.
+
+Adamovich: That is what Adamov already told me, and Velikhov said the same. In fact, everything continues by inertia. I said the same to them but how can one get access to Gorbachev for a back-and-forth. They told me about their complete helplessness.
+
+Legasov: Our general helplessness is again associated with the fact, and lies in the fact, that as long as there is a monopoly of a particular institution over the system, it will continue. For example, the Politburo correctly decided to create a relevant nuclear organization within the Academy of Sciences; because there is no alternative, no competition. But not everyone is in a hurry. The same is with Velikhov, for example. He, knowing this, is not in a hurry to create a strong and appropriate alternate organization.
+
+Adamovich: [UNINTELLIGIBLE QUESTION] ... and which system controls all this apart from the Academy?
+
+Legasov: Ministry of Medium Machine Building. It has everything. It has all the designers; everyone remained with them, whereas the Ministry of Energy is purely an operational institution. It only handles the operation, nothing more.
+
+The Ministry of Power Engineering was the one who designed the equipment. The situation worsened because earlier there was the Ministry of Power Engineering which only made nuclear equipment. Now it has merged with Minmash. And nuclear equipment has become just one in a range of manufactured items. So the situation has only worsened. The probability of [another] Chernobyl has now increased.
+
+Right now, I’m writing a note to Nikolai Ivanovich Ryzhkov, another one, where I say the same thing. “The probability increases day by day because of…” again, those devices without containment.
+
+Adamovich: Which exist…
+
+Legasov: …which exist. And people understand that they are dangerous. But what are they doing? They are trying to increase the reliability of the reactor so that there would not be an accident. But what does this ‘increasing the reliability of the reactor’ mean? It means adding more and more instruments to it, some additional diagnostics tools and so on. Moreover, this is being done on different devices at different times. And staff migration is quite high. So changes to the regulation are introduced for one device but not for another. On this, they do; on that, they don’t. Can you imagine? A shift manager moves from one facility to another thinking that things will be the same. Do you understand? That is why it is more probable now. Because people think they are doing a good thing by increasing the reliability of the device. But in reality, due to a lack of understanding of this whole philosophy, they are worsening the condition of the device.
+
+Adamovich: [PART OF AN UNINTELLIGIBLE PHRASE] ...I understand that it is useless to write…
+
+Legasov: Hope this isn’t confusing to you. It is only for myself. Just in case it is useful when you write. This means that it applies, in no less degree but more, to the chemical facilities where we still have such ugliness, much more than in the nuclear industry. And I sit and shiver. Indeed, even a person here is ill and I am lying down. Thank God, I am already cured. I feel sick thinking about exactly what is most likely to happen to us in the near future. So I just say what I’m afraid of, and I already am afraid. Because I already spoke at the Politburo once. I said that the next disaster will happen in South Kazakhstan, with phosphorus, when everything that lives within a 300-kilometre radius will die.
+
+Adamovich: [UNINTELLIGIBLE SPEECH]
+
+Legasov: But I said so at the Politburo. It went in one ear and out the other. But two weeks later, it happens in America, a phosphorous accident in two weeks. And then they paid attention. Do you understand? Thank God that it did not happen here or in a factory but on a railway tanker car transporting phosphorus. They had to evacuate 30,000 people because of this accident. So I just know that the next nuclear accident will be at the Armenian plant and the whole of Armenia will be affected. Then the next most likely is Bulgaria, Kozloduy. And the next most likely is Leningrad; it will certainly explode. These are the three nuclear stations. There will be a major chemical accident in Dzerzhinsk. It will be the largest chemical accident in history. And another big accident will be in Kuibyshev, a chemical accident. And in Shymkent in South Kazakhstan, there will definitely be an accident.
+
+Adamovich: I will note all this down. And then…
+
+Legasov: Check that. [dictates] Nuclear: Armenian, Leningrad, and Kozloduy, Bulgaria—these nuclear power stations that don’t have containments. Now the chemical accidents: an explosion at Dzerzhinsk, there will be a powerful explosion; then the same volumetric explosion at Kuibyshev and Shymkent at a phosphorus plant. An accident is possible in which organophosphorus compounds form, a single breath of which is lethal. Based on the wind rose, on dispersion, within a radius of 300 kilometres, with entry into China, all life will be destroyed.
+
+All this is what I say [will happen] unless the necessary measures are taken. Moreover, the measures that can be taken to prevent this from happening are known. But the most demoralizing part, which makes one worried and sick, is that the measures needed are known. For example, I actually can today…
+
+[ERASED]
+
+...so, it means that the information came in a standard form. The system for warning the Ministry of Energy about an accident was adopted beforehand, long before the accident. And it was a coded system. The information came as a code. For example, certain numbers are sent: 1-2-3-4. 1 is a fire; 2 is radiation damage; 3 is a nuclear accident; 4 is a chemical hazard.
+
+And teams had already been put in place beforehand. In case of such and such signal, at such and such place, assemble a specific emergency team to dispatch here in Moscow. In case of another situation, another team will assemble and so on. And so, on the night of the 26th of April, all four types of codes for all types of possible hazards appeared at the Ministry of Energy. There was a team for this. Accordingly, the Minister was called immediately, and all the listed experts who had to depart were summoned. Since this happened on the night between Friday and Saturday, some were at their dachas. So this process took two to three hours. But, at night, everyone gathered at the Ministry of Energy. Then another hour or so passed as the situation with the plane was ascertained, and this group of people flew out early in the morning to the location. I was not with this group when they left. And here, an unpleasant moment occurred.
+
+They established a telephone connection and we started receiving information from the station contrary to the coded signals, not supporting them and even contradicting them. They started to say that they turned the cooling on, turned this or that on. This gave the impression that the reactor was live, that something serious had certainly happened.
+
+In the morning, they had already reported that two people had died. But it was reported in such a way that one of them died from physical trauma while the second from chemical burns. Because there really was a fire. That was true indeed. One they just lost and—
+
+Adamovich: [faintly audible] And he remained there.
+
+Legasov: He remained there, buried in the sarcophagus, while the second one did actually die from chemical burns because a fire broke out in an area. But, at the same time, they didn’t report other things like the appearance of typical radiation injuries and so on. And during the first half of the day of the 26th, we were receiving such information that the staff are trying to deal with the situation that has arisen, that the device is out of control, and they are trying to get it back under control. This, roughly speaking, was the situation. But since the original signal was serious, the information was relayed to the Government and it established the Government Commission.
+
+Adamovich: Who sent the first signal? They themselves?
+
+Legasov: The station staff. The station director. So, on Saturday, early in the morning around ten, I went to the party meeting, where Slavsky, our elderly Minister of Medium Machine Building, was speaking.
+
+Adamovich: What’s his name and patronymic?
+
+Legasov: Efim Pavlovich.
+
+Adamovich: He was the Minister of…?
+
+Legasov: Medium Machine Building.
+
+Adamovich: Medium, noting.
+
+Legasov: So he presented a big report; he always made long reports. He praised nuclear energy, praised himself, praised his own Ministry, and said in passing, “...at Chernobyl, we have had a signal. Something has happened but we, as always, will handle it.” and went on with his report. He finished his report. There was a break at 12 o’clock as I remember it now. During this break, Slavsky’s First Deputy, Meshkov Alexander Grigorievich, his First Deputy who was later fired because of this accident—
+
+Adamovich: And he himself? He simply retired?
+
+Legasov: Slavsky?
+
+Adamovich: Yes.
+
+Legasov: Well, how should I put this. They retired him. [They made him retire.]
+
+Adamovich: Oh, I see. It was like that.
+
+Legasov: Yes, it seems to be civilized. He left without punishment, so to say.
+
+And so Meshkov Alexander Grigorievich came up to me and said that a Government Commission had been appointed and that I was included in it. And that I must be at Vnukovo, at the airport, at 4 o’clock to fly out. The head of the Government Commission was Boris Yevdokimovich Shcherbina. I immediately jumped into the car, went to the Institute and found experts on this type of reactor. I repeat that I myself am not a reactor man despite being the First Deputy Director of the Institute. But the Institute is huge. There is thermonuclear and nuclear physics, isotope separation and usage, radiochemistry and whatever the hell else.
+
+My responsibilities included chemical physics, and separation of isotopes and substances, as well as the use of nuclear energy in the domestic infrastructure in the form of isotopes or something else. My department was the smallest. Apparently, that is why Anatoly Petrovich appointed me as the First Deputy, because I had no greed to pull resources towards my own tasks. Among the “giants”, among the reactor people or the thermonuclear people, I was the smaller, so to say, proprietor. That is why he put me in charge of management affairs, of resource management. He assigned me the post of the First Deputy and I worked for them for many years. I think it was out of these considerations; perhaps he had other considerations.
+
+Anyway, I called the experts with the drawings of the reactor and all the information that could be gathered. Of course, I did understand the design of this reactor but not in as much detail as a member of the Government Commission would need to in such an emergency. I took all that I could carry with me and at 4 o’clock, I was at the airport. Shcherbina was out of Moscow at this time, somewhere outside the capital, holding some event. We waited for him. He arrived. I looked at the composition of the Government Commission—I can list this first composition if needed—and we flew out to Kiev.
+
+On the way, I told Shcherbina the story of the accident at Three Mile Island in detail. This is what I did on the flight. I told him what had happened at Three Mile Island in America, what events took place there and what measures [were taken]. And the measures there were simple. They ran away. And didn’t go near that Three Mile Island station for three years. This is all they did. Well, actually, they did struggle to keep the hydrogen bubble from exploding. They were ventilating the hydrogen bubble. Having done that, they closed the entire thing and for three years, no one even went near the station. They lost 17 people there, the Americans. But not in the accident itself. In the accident, no one was killed or exposed to radiation. But because of panic. There was panic in the town. They rushed to their cars to evacuate themselves and, in the process, 17 people died in cars. This is how the Americans fled. And I told this story to Shcherbina on the plane.
+
+We arrived at Kiev. There, led by Liashko, the head of the Ukrainian Government, was a huge crowd of black limousines. Gloomy faces. No one could explain what had happened. They said that things were probably bad. We got into the cars and set off. The journey was gloomy. There was no definite information. So the conversation was in the form of “Do you know?” “Yes” or “No”. I was in the same car as the head of Kiev Oblast Executive Committee, Plyushch, who was also a part of the Government Commission. What conversation was there to have?
+
+Here, the measure of our ignorance, the measure of our misunderstanding of what had happened was expressed in such instances. That I, for example, even managed to drop by home to tell my wife that I was leaving on a business trip. But because I had been at the meeting dressed in my best suit, my best clothes, I left in the same clothes.
+
+Adamovich: But you did understand?
+
+Legasov: Oh well, I… That’s how much we were confused by the scale of the accident. Do you understand? To such as extent that I could not imagine the scale of this accident from the available information. And I have seen more than one accident. I already had 180 roentgens in me and, thank God, I knew how to act in situations like these. And the cavalcade of black cars, Chaikas and others, that were going there also reflected how little we knew and understood that day. It bore witness to that. Then, Shcherbina, after returning from there, smashed his deputation badge with a hammer before our own eyes. So that no one could use it. So contaminated it was that he personally smashed it to pieces with a hammer. Nothing else bothered him. Anyway… Also, there was an episode that I will talk about later.
+
+We drove through Chernobyl. It lived a peaceful life, quietly, very peacefully. We arrived at Pripyat. A few kilometres before Pripyat… There are 18 kilometres between Chernobyl and Pripyat. So a few kilometres before Pripyat, say seven or eight, for the first time, I could not recognize a nuclear station. Because a nuclear power plant is easily distinguishable because of chimneys that don’t emit anything. Do you understand? This is the most distinctive feature of a nuclear facility when there is a chimney but it only serves to draw air from which only Krypton-85 is extracted, as I told you, and nothing else. And everything around is clean. But here, suddenly, there was a crimson glow in half the sky and white smoke streaming out of the reactor. This is not a nuclear station. My first impression was that I hadn’t come to a nuclear station.
+
+We drove up to the building of the Pripyat City Committee of the Party, placed ourselves in a hotel nearby, where we stayed for about ten days in Pripyat itself, but the headquarters—
+
+Adamovich: And the people had already been evacuated. They were taken away on Sunday.
+
+Legasov: No. We arrived on the 26th at 8.20 pm. And at 8.40 pm, approximately, the first meeting of the Government Commission was held in Pripyat itself in the city committee of the party. This first meeting was simple and straightforward. Shcherbina assigned the duties.
+
+He instructed Meshkov to gather a group of specialists, to be called from Moscow if needed, and investigate the cause of the accident. He charged me with developing the measures for liquidation; in other words, what to do. I was tasked with coming up with proposals on what to do. Suggestions. Because the final decisions were taken collectively by the Government Commission or by Shcherbina personally. He as the chairman made the decisions. But preparing proposals on what to do fell on my shoulders.
+
+Vorobyov Evgeny Ivanovich, the former Deputy Minister of Health, who was later removed, his responsibility was to determine the number of people exposed to radiation, their fate and everything that had to do with people. And local authorities were a part of the Government Commission. For example, the head of the district executive committee, Plyushch, had to make preparations for the evacuation. These words were pronounced immediately and directly, “Prepare for evacuation.” And to carry out the tasks that I would define to limit the consequences of the accident.
+
+The first thing to do was reconnaissance. Because the dosimetry service… By the way, here I will take a detour and say that dosimetry was poorly organized. Dosimetrists with devices, instead of assault rifles, should have been everywhere. As I wrote in the proposals: the first perimeter at the station itself, a second one at a kilometre from the station, then 3-kilometre and 10-kilometre perimeters. Within these, at every 100 metres, there should have been automatic devices that would generate audio and light signals in case of excess doses.
+
+Adamovich: DP-5.
+
+Legasov: Yes. But even DT-5 was not there in sufficient quantities when we arrived. So the main work was undertaken by Abaghian Armen Artavazdovich, the Director of VNIIAES, the Institute of Atomic Energy Stations, that is presently under the Ministry of Atomic Energy and was under the Ministry of Energy earlier.
+
+Adamovich: Abaghian…
+
+Legasov: Armen Artavazdovich, a good man. And, a little later, Egorov from the Adamov Institute but he arrived a day or two later. They started the work. Then Pikalov came with his services. Then the dosimetric reconnaissance began.
+
+On the evening of the 26th, we did everything roughly. However, it was already clear on the 26th that the reactor was destroyed. And on the 26th, at 11.11 pm, there was another meeting of the Government Commission that considered two issues. The first was about the population. And here we had a sharp debate. Sidorenko Viktor Alekseyevich, who also was a member of the Government Commission from Gosatomenergonadzor, insisted on an immediate evacuation of the population. And I supported him. The medics objected. But the point here is that the procedure that had been established was this. The permission for evacuation is issued by the Ministry of Health of USSR; not the Council of Ministers or the Central Committee of the CPSU but the Ministry of Health.
+
+The rules that they had worked out prior to this accident were as follows. By the way, there are no international rules even now. But the Ministry of Health had developed these rules. If there is a danger of a person receiving a dose of 25 rem immediately or within a certain amount of time, then the local authorities have the right to—have the right to but are not required to—carry out an evacuation. If there is a probability of receiving a dose of 75 rem or more, then the local authorities are required to carry out an evacuation. So, if there is no threat of receiving 25 rem, then no one has the right to carry out an evacuation. Between 25 and 75 rem is a matter for the local authorities. And above 75 rem, it is mandatory. These were the sanitary rules that existed at the time. Direct measurements were made in Pripyat. The explosion happened in such a way that Pripyat was bypassed from both sides [by the fallout]. Do you understand?
+
+Adamovich: And it went to Belorussia.
+
+Legasov: To Belorussia, one part, and the other went to Ukraine but in the other direction. And Pripyat appeared, at the time of the explosion, it appeared to be clean. There were less than 10 rem. This put the medics in a difficult position. According to their regulations, they did not have the right to declare an evacuation based on the data available to them at 11 pm. We, as experts, were saying that—
+
+Adamovich: Tomorrow, there will be…
+
+Legasov: That tomorrow, there will be 25 or more. Therefore, we must declare the evacuation right away. But that will be tomorrow, and right now there isn’t. And what if there isn’t [above 25 rem] tomorrow? What if something is done to the reactor tomorrow and the whole thing is over? How would we feel then? Would we be breaking the law? Altogether, there was such a lengthy argument and Shcherbina, to his credit, approved the decision to evacuate.
+
+The medics did not sign the protocol. They signed it the next day at 11 am. But since Shcherbina had approved the decision, the local authorities had promptly begun the preparations. One thousand buses were called from Kiev, the routes were prepared, and locations where the evacuees would be taken were determined.
+
+Unfortunately, there was no local broadcasting network to announce this. So General Berdov, who had arrived from Kiev, ordered that all policemen will go to every flat and inform that no one should go outdoors until the next day and should stay at home. Because in the houses, there were no—
+
+Adamovich: So that there was no local…[inaudible]
+
+Legasov: Well, I don’t know. I only know that the population was informed at night and early in the morning by going to all the flats and placing on duty—
+
+Adamovich: 27th or...[inaudible]
+
+Legasov: In the morning on the 27th and at night on the 26th.
+
+Nevertheless, on 27th morning, there were women taking a walk with their children. This meant that they did not have time to inform some of the people or that they had come from somewhere else. People were going to the shops and the city was living its semi-usual life. But at 11 am, it was already fully official. After the medics signed, it was announced that the city is being evacuated. This showed our inexperience, of some sort... organisational, I would say.
+
+I understood, I must tell you honestly, that I understood that the city was being evacuated permanently. But psychologically, somehow, I did not have the means, the strength, the ability to say this to people. Because I reasoned, for example, that if we say this to the people now, the evacuation will be delayed. But the radioactivity was already growing exponentially at this time. People will start to pack for too long. Do you understand? Something else will happen. But there was no time. That is why I advised, and Shcherbina agreed with me, to announce that we cannot tell about the precise duration of the evacuation yet.
+
+Adamovich: [unintelligible]
+
+Legasov: No, no such duration. He is wrong. Maybe someone understood it this way but it was announced like so, “Probably for a few days, maybe for a longer period…” It was announced in an indefinite form but it was announced in such a way that people could understand that they were leaving their city for a few days. Do you understand? That is why they packed lightly and left.
+
+Then there was another mistake. Some residents asked to evacuate in their own cars and there were around 3,000 private cars in the city, around that number.
+
+Adamovich: [Was it] banned?
+
+Legasov: No, allowed. Boris Yevdokimovich probably made a mistake but it is hard to say. Say they allowed it and some cars left, some of the residents left in their own cars, but the cars were, of course, contaminated. On the other hand, people were contaminated; and their things were contaminated. Whether it made a big difference is hard to say.
+
+The evacuation itself took place in an exceedingly organized manner. In two hours, as I recall, 45,000 of all the 51,000 residents were evacuated. Those needed to maintain the city and service the station remained. And the Government Commission itself remained in Pripyat. During this—this may not be for publishing or maybe it is—do you know what caught my eye? The party organisation was removed.
+
+Adamovich: That is?
+
+Legasov: Even during the war, when a retreat was planned from a city, it was already determined in advance who would remain undercover, who would be with the army, etc. But here everything was so quick and sudden that…
+
+[Erased]
+
+...there was no one to rely on, that is, the highest party authority. But this was for a few days, and after a few days, everything, of course, recovered.
+
+Now, the station personnel, who were supposed to service the 1st and 2nd blocks in shifts, were transferred 50 kilometres away to the pioneer camp, Skazochniy. When I arrived there for the first time, I witnessed a grim scene because the first proper dosimetric posts were set up there. People were changing clothes. And it was such an unforgettable scene as one drove up to Skazochniy. Probably, there were a few thousand suits, civilian, hanging on trees. Because, of course—this is interesting—everyone arrives, the dosimetrists measure them and everyone’s clothes are contaminated. And I remember that my Finnish overcoat, which my wife chose for me after much thought, and my English suit…
+
+Adamovich: On trees…[inaudible]
+
+Legasov: Simply hung up on trees. And there you are, travelling by car for a long, long time and then you see such a scene in front of you—
+
+Adamovich: Oh, just hung up...[inaudible]
+
+Legasov: Just before Skazochny. It went like this. You approach the gates of the Skazochniy Pioneer Camp. The dosimetrist measures you. Says, "Undress." You undress. Take a few steps. You hang your suit on a tree, wherever you are. You are then given special clothing, like this one, blue or white. And you go into Skazochniy where you are assigned a bed, living space and other things. Then the next one arrives and so it goes on.
+
+Adamovich: And then you drove past these suits?
+
+Legasov: Yes, two or three times we went by these suits.
+
+Adamovich: And then?
+
+Legasov: Then they were destroyed, of course.
+
+Adamovich: Destroyed?
+
+Legasov: Of course, later they were all destroyed. Buried and destroyed.
+
+Adamovich: [unintelligible]
+
+Legasov: Leaves an impression. Yes. Like scarecrows all of them were hung. And there was another episode. Sidorenko and I, when we had moved to Chernobyl after spending a week in Pripyat, went to a shop—we were supposed to be the experts—to buy ourselves at least something, new underpants, undershirts, shirts. Do you understand? Something to change into. This is underwear that we were dreaming of. We went in and bought ourselves some very nice shirts. But when we returned to Skazochniy and measured them, they turned out to be more contaminated than the ones we were wearing. Even Chernobyl was quite…
+
+Adamovich: [inaudible] ...this is in Chernobyl?
+
+Legasov: Yes, there is contamination in Chernobyl itself.
+
+Adamovich: But people were living in Chernobyl for seven more days.
+
+Legasov: Sometime after the 2nd of May, they started to evacuate them. But in the end, I have to say this. The evacuation, the order of evacuation, doesn't matter from Pripyat or Chernobyl, was carried out in such a way that—it will be better for you if Ilyin or the other doctors say this—overall among the people who did not work at the station, just lived there, not a single person was injured because of delaying the evacuation by at least a day.
+
+Another thing. Many residents later, in six or seven days, were drinking milk—
+
+Adamovich: Where?
+
+Legasov: Well, somewhere. Say from cows who—
+
+Adamovich: In Chernobyl? [inaudible]
+
+Legasov: In Chernobyl, near it, in your Belorussia, everywhere. Do you understand? Yes? That is because Iodine fell out first. Then the cows ate the grass with Iodine. Then gave us milk when they were milked later. And then those who drank Iodine, and children, in a large enough amount, they had greater stress on their thyroid gland. But there was no external radiation exposure or any other effect, so to say, on those people that were evacuated. There was nothing.
+
+But coming back to Pripyat... As I said, on the 26th of April, at 11 pm, it was decided that the people will be evacuated the next day. But my colleagues and I were faced with the task of what to do next? What to do next?
+
+Adamovich: Sorry, but the first commission, they must have then called. Was Shcherbina calling Moscow with you? Didn’t you report to Gorbachev and others, well, the situation?
+
+Legasov: So, on that day and the following days, there was regular communication with Nikolai Ivanovich Ryzhkov and Vladimir Ivanovich Dolgikh. They were communicating, continuously, constantly. As far as I can imagine, but this is within my ability, Mikhail Sergeyevich Gorbachev, I spoke with him three times. And the first time with him—
+
+Adamovich: Well, that’s interesting. What kind of conversation did you have with him?
+
+Legasov: I probably cannot say because—
+
+Adamovich: I will not write it down.
+
+Legasov: Or I will. Not for the record but for understanding. So, I heard his first call… When I worked with Shcherbina, I never heard him speaking to Gorbachev. Whether he was or not, I just don’t know. I won’t lie. But when Silayev replaced Shcherbina, and I was left, then the entire Commission, the first composition of it, left.
+
+Adamovich: [unclear]
+
+Legasov: I was left behind. They left me. At first, Sidorenko left me, and Shcherbina asked me to stay. Then I was called to the Politburo meeting on the 5th of May. There I reported the situation. Then Silayev called Gorbachev himself and asked that I go back. So I was caught on the road and, after the Politburo, sent back again. But these are such personal things. And so, before the Politburo, before the 5th of May, when Shcherbina had already left and Silayev had arrived, this was the 3rd or 4th of May, I heard the first call from Gorbachev to Silayev and his conversation with him. This was the first one.
+
+Were there conversations between Shcherbina and Gorbachev? I don’t think so. I think there were no conversations in the initial days but I may be wrong. Also, I think that Gorbachev’s first call to Silayev was sometime after the May holidays, on the 3rd or 4th of May. And I spoke with Mikhail Sergeyevich in the second, third and fourth calls. Velikhov spoke with him once, in my presence, on the situation. That was it. But usually, Ryzhkov and Dolgikh were in constant communication. They, so to say, maintained this connection.
+
+Adamovich: [weakly and hardly understandable] But what did Gorbachev ask you…tell you…
+
+No, I am turning off my—
+
+[Recording interrupted]
+
+Legasov: ...The director of ChNPP was in shock, from beginning to end.
+
+Adamovich: [unclear]
+
+Legasov: I saw him on the first day I arrived there. His last name was Bryukhanov, the director of the station. The last time I saw him was in the Politburo meeting on the 14th of July [transcript of the Politburo meeting] when the cause of the Chernobyl accident was being discussed. That’s where he was questioned. He was in shock all of the time. Not one sensible action or word could he utter. So he was in shock. What he is as a person and why he was in shock there… but there, he was an incapacitated man.
+
+At the same time, Shasharin, the First Deputy Minister of Energy, under whom the station was at the time, was at a loss. He was at a loss because for him, the situation was, how do you say, not planned for. It was not clear what to do in it. And so he sought our help all the time on what to do. But he acted very eagerly and selflessly.
+
+I will end here all my manipulations with you, so to say—there is a lot of talk about it—the logic, so the logic behind the decisions that were made is clear to you. The logic behind the adopted decisions was as follows.
+
+We had to introduce an element that would absorb heat due to chemical energy and transform, in the same way we boil tea, would take away the heat and so on. Initially, I suggested dropping iron shot. Firstly, because it would melt and a sufficient amount of energy would be spent in melting it. Secondly, it would ensure that the heat transfers to the metal structures and then they would transfer the heat to the air faster. But the iron shot that we found at the station was contaminated with radioactivity. So it was impossible to load it into the helicopters, first of all. Second, at the high temperatures that we had measured at some points, the process would get reversed. The iron would oxidize and the temperatures would rise further still.
+
+Adamovich: [unclear]
+
+Legasov: That is why this option was discarded. For the places where the temperature was relatively low, say 200, 300, 400 degrees [Celsius], lead was used. It would melt there, absorb the heat and also act as a protective shield to some extent. At the same time, it would also be a kind of heat-conducting element. And we even thought that it would partially evaporate, cool down in the higher area and then flow down again. You know, sort of similar to Freon circulation in refrigerators. This would facilitate heat transfer. That's probably what happened.
+
+I repeat, then there was a lot of talk about lead poisoning. But now they are preparing for me a precise report of analyses of all the soils from both within the 30-kilometre zone and beyond it. All that has been given to me so far shows no difference from Moscow to Minsk or anywhere else. Lead is everywhere but it is the one that comes from exhaust gases of vehicles. Do you understand? There is no excess. And doctors have never found any trace of lead in the people who were directly working there. That is idle talk; even though it is so very widespread.
+
+We dropped dolomite there. That’s magnesium carbonate. It also decomposes the same way. The heat was absorbed and it broke down into magnesium oxide and carbon dioxide, which in turn reduced the supply of oxygen, as it is in firefighting. Do you follow? And magnesium oxide, the most heat-conducting of all ceramics, similarly carried the heat away.
+
+And finally, sand. It played the role of iron but without the oxidisation. If the temperature is high, it melts and absorbs heat. Sand played a double role. On the one hand, it melted and we did find evidence of that. And it used the heat from the reactor to melt. It took away the heat so that the uranium won’t melt. Moreover, we added clay just for filtering. Whatever radioactive particles would escape, they would be filtered out. So the radioactive particles were filtered out by this layer. As western experts have shown after our report at the IAEA…
+
+[END OF SIDE A TAPE 5]
+
+

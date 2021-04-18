@@ -1,0 +1,114 @@
+…report at the IAEA, the measures taken were innovative, even though they were actually devised on the fly. And now, they are recommended. To my surprise. I thought they would criticize us because there was no prior plan, everything was done on the fly. Now the British conference and the Vienna conference have ended, and our actions are officially recommended for the future as very effective and useful.
+
+Adamovich: Did all the graphite there burn out?
+
+Legasov: No.
+
+Adamovich: Extinguished in some way…
+
+Legasov: Yes, yes. Look, the fire ended—
+
+Adamovich: It started at around four or five in the evening. The graphite started burning—
+
+Legasov: Yes, it started to burn.
+
+Adamovich: [Inaudible] …judging by these notes that I—
+
+Legasov: The graphite started burning around the 26th or 27th—
+
+Adamovich: No, hold on. On the 26th in the evening—
+
+Legasov: Yes, on the 26th in the evening, around 6 or 7 pm, when there was a crimson glow as we were arriving.
+
+Adamovich: Yes… [Inaudible]
+
+Legasov: Correct. But the fire ended completely on the 2nd of May. Completely.
+
+Adamovich: I see, so on the 2nd of May… [Unclear]
+
+Legasov: But after the 2nd of May, there were traces of a glow a few times in some spots. Either graphite or metal structures were heating up. The last time this was observed was on the 9th or 10th of May. And that’s it. After that, nothing happened.
+
+Adamovich: [Unclear] ...you talked about nitrogen.
+
+Legasov: About nitrogen. There is a lot of confusion in the international press, for example, that Velikhov was measuring something on the roofs around the 26th, Evgeny Pavlovich [Velikhov]. But he was at his dacha, drinking vodka, and was not aware of anything.
+
+Adamovich: And he was not there on the 26th?
+
+Legasov: He was not there. Yes, he wasn’t.
+
+About nitrogen. This was during Silayev’s time when he has already arrived. It was I who proposed using liquid nitrogen for cooling. This proposal was stupid as practice ha showed. But what was my reasoning? I thought that the reactor shaft was intact. Do you see? And so if we add liquid nitrogen to the air—and we had, very quickly I must say, an entire train of nitrogen brought to us—then that cold air would cool the hot zone better. But then it turned out that the sidewalls of the reactor were wrecked. So all the nitrogen we supplied—and we did find a place for to supplying it—leaked out of the zone and cooled nothing. The natural air circulation was so strong that this nitrogen was like a drop in the ocean. That’s why we quickly discontinued this measure. And in the report I prepared for Vienna, to tell the truth, the Central Committee removed this phrase, but it was in the initial version, that among the ineffective measures was supplying liquid nitrogen.
+
+Now, what else did I want to say about these measures? I repeat that they were invented in continuous phone conversations with Moscow, with experts who assessed, did the thermophysical calculations. For example, dolomite. Anatoly Petrovich Aleksandrov and my student, who called me just now, Silivanov, they thought about which material to use that would generate CO2 and also conduct heat. This is how we chose dolomite which was quickly shipped.
+
+We received many telegrams from abroad, by the way. From these telegrams, I immediately realised that no one [in the world] was prepared for this kind of accident. Because, well, one telegram was just provocative, clearly provocative. It proposed to create another explosion by introducing nitrate mixtures there.
+
+Adamovich: To blow up… [Unclear]
+
+Legasov: If we were to do this, there would simply be another explosion. But there was only one such telegram.
+
+Adamovich: What is this nitrate mixture?
+
+Legasov: Explosives. Basically, they proposed to drop explosives. Obviously, people thought that we are panicking and suggested a solution of such and such composition, containing nitrate, to be dropped there. The water would immediately evaporate, leaving pure ammonium nitrate. And ammonium nitrate is an explosive in its pure form. Everything there would be blown to kingdom come. From one of the countries, Sweden I think it was, if my memory is correct, we got this provocative—
+
+Adamovich: This was from Sweden?
+
+Legasov: I think, yes, from Sweden, but I’m not sure. I cannot vouch for my memory. Perhaps it was not Sweden. But it was from abroad, this telegram. And a huge number of friendly telegrams, a great amount of benevolent advice: what to do, how to extinguish the fire and so on. But from the contents of the telegrams, it was apparent that all this was, you know, people dreaming up things, same as we were doing here. Do you understand? And not that they had any experience [to draw from].
+
+Adamovich: People say that the Japanese proposed something like this, that we give them the Kuril Islands and they will extinguish everything.
+
+Legasov: I am not aware of that.
+
+Adamovich: Another thing is that Sakharov came… [Unclear]
+
+Legasov: That didn’t happen for sure.
+
+Adamovich: [Unclear]
+
+Legasov: What didn’t happen didn’t happen. But the logic behind these actions was this. When the fire ended, when we established that the surface temperature, that was monitored, is not higher than 300 degrees Celsius, all actions targeted towards eliminating the fire itself and its spread ended. This doesn’t mean that the spreading of radioactivity ended.
+
+Adamovich: But these hazardous… [Unclear]
+
+Legasov: About the ratio [unclear] I will say later. Radioactive emissions were still going on but, of course, getting lesser and lesser until about the 20th of May. Because the zone was still hot. Some amount of aerosol particles were released with ascending airflows. And the caesium emissions that caused so much trouble in Belorussia, they were forming up until the 22nd, maybe even the 23rd of May. But getting less and less overall.
+
+Adamovich: [Unclear]
+
+Legasov: Mostly caesium and strontium.
+
+Adamovich: But this muck—
+
+Legasov: Yes. Because other such unpleasant things like plutonium, as we established, had a distribution radius of 12 kilometres. Nothing got farther than 12 kilometres from the station. But caesium and strontium, these emissions, they did spread to large areas. [Volume reduces, unclear]… the release of caesium because everything is hot there. Why caesium? Because of all the metals that were there, it is the most fusible. It evaporates at just above 700 [sic] degrees Celsius. It melts and has high volatilization [sic] of saturated vapours. That is why it spreads. Our main goal was to prevent 2,500 degrees there. This is the main accomplishment of those people who spent considerable time there in the initial days. We had to avoid reaching a temperature of 2,500 degrees. That was the main goal.
+
+Adamovich: [Unclear]
+
+Legasov: Because 2,500 degrees is the melting point of the uranium dioxide pellets, and the main radioactivity sits inside these pellets. So if the temperature reached 2,500 degrees, then it would not be three per cent of radioactivity that gets released but the entire 100 per cent. That means 30 times the contamination. The area, the extent of contamination, its intensity would increase by 30 times compared to what happened. By 33 times almost. Even more actually because nasty isotopes would spread, much heavier than caesium that we mentioned earlier. Do you understand?
+
+And so the main purpose of our actions boiled down to not reaching 2,500 degrees. This is why Ryzhkov was constantly asking—what is the temperature? what is the temperature? how much did it increase? The maximum temperature recorded there was around 2,000 degrees. Then with all these measures, by dropping all kinds of materials, we began to lower it and reduced it to 300 degrees in the end. Now the maximum temperature there—activity still continues; not the reactor but its remnants are active—is somewhere around 60-70 degrees Celsius. Around that much. Do you understand?
+
+Adamovich: But if left without supervision, can it—
+
+Legasov: Oh, about leaving it unattended, I will talk later separately. Now about other things. So that there is an understanding. The main goal of all the actions…
+
+Adamovich: I understand.
+
+Legasov: …was to prevent 2,500 degrees.
+
+Adamovich: All the uranium in there—
+
+Legasov: It would have all melted and all the radioactivity—only three and a half per cent got out—one hundred per cent of the radioactivity would have gotten out and flown around the earth. Do you understand? The meaning.
+
+Adamovich: How much of it was there in total?
+
+Legasov: In total in the reactor? In this reactor, 1,700 tons.
+
+Adamovich: Of uranium?
+
+Legasov: Uranium yes, the fuel itself. This goal was achieved.
+
+Adamovich: There were telegrams from Ryzhkov. You did not hear what kind of conversations happened with him, [they were] purely operational.
+
+Legasov: I heard them, and talked with Ryzhkov. And I reported to him when they arrived with Ligachev. But with Dolgikh, I myself spoke on the telephone many times.
+
+Adamovich: Was there a conversation about, maybe, what you would do, and you reported on that?
+
+Legasov: Reported on what is being done. The question is what was needed from Moscow. Full approval of our actions; very calmly. But I was very pleased with all the conversations with Ryzhkov and with Dolgikh. They were very professional.
+
